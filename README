@@ -1,0 +1,10 @@
+Output Escaper
+==============
+
+This is the code from the old Symfony2 Output Escaper Component. It has been
+removed from Symfony2 as it does not work well enough to be included in the
+final version of the Symfony2 framework. It has been moved here in the hope it
+can help someone.
+
+This code is not maintained anymore. Feel free to contact me if you want to
+take over the maintenance.
